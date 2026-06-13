@@ -20,7 +20,7 @@ pip install tensorflow numpy matplotlib
 ## Utilisation
 
 ```bash
-python pinn_heat_v2.py
+python pinn_heat.py
 ```
 
 Le script entraîne le réseau pendant 3000 epochs puis affiche :
